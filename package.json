@@ -1,14 +1,14 @@
 {
-  "name": "ore-phina",
+  "name": "parcel-phina-simple-example",
   "version": "1.0.0",
-  "description": "ore ore parcel + phina.js sample",
+  "description": "parcel + phina.js simple example",
   "main": "src/index.html",
   "scripts": {
     "clear": "rm -rf ./dist && rm -rf ./.cache && rm -rf build",
     "dev": "npm run clear && parcel src/index.html",
     "build": "npm run clear && parcel build src/index.html -d build"
   },
-  "author": "",
+  "author": "orange634",
   "license": "MIT",
   "devDependencies": {
     "parcel": "^1.9.7"
