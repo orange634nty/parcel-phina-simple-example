@@ -6,7 +6,7 @@ export default {
         // 背景色指定
         this.backgroundColor = 'gray'
         // スプライト作成・表示
-        this.parcelPhina = PixcelSprite('parcelPhina')
+        this.parcelPhina = PixelSprite('parcelPhina')
             .setPosition(this.gridX.center(), this.gridY.center() - 50)
             .setScale(7)
             .addChildTo(this)

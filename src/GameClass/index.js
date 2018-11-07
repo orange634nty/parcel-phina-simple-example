@@ -1,6 +1,6 @@
 import MainScene from './MainScene'
-import PixcelSprite from './PixcelSrite'
+import PixelSprite from './PixelSprite'
 export default {
     MainScene,
-    PixcelSprite
+    PixelSprite
 }
