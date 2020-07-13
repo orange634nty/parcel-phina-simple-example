@@ -11,7 +11,7 @@
   "author": "orange634",
   "license": "MIT",
   "devDependencies": {
-    "parcel": "^1.9.7"
+    "parcel": "^1.12.4"
   },
   "dependencies": {
     "phina.js": "^0.2.3"
