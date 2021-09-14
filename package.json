@@ -16,7 +16,7 @@
     "minimist": ">=0.2.1",
     "parcel": "^2.0.0-beta.2",
     "serialize-to-js": ">=3.0.1",
-    "set-value": "^3.0.2"
+    "set-value": "^4.0.1"
   },
   "dependencies": {
     "phina.js": "^0.2.3"
